@@ -1,17 +1,5 @@
-# Giphy Search and Favorites
-
-This week you will be building a Giphy searching and favoriting application which allows the user to save images and sort them into categories.
-
-In this project you will need to utilize React, Redux, Redux-Saga and integrate them with a 3rd party API....all in a group project!
-
-## Team Setup
-Do not clone this repository. Instead, have one person create a new repo by clicking on the **Use this template** button to make a copy. Make your team collaborators on the new repo you have created. The rest of the team members that did not make the initial repo will clone directly from the person who created the new repo, **do NOT fork** the repo.
-
-
-## Create Database and Tables
-
-See the `database.sql` file for database setup and details. It offers some of the SQL to get you started but you'll need to set up your tables and the relationships between them.
-
+# Descritpion:
+The Giphy Search and Favorites project is an exciting application that empowers users to explore, save, and categorize their favorite GIFs. Built as a collaborative effort using React, Redux, Redux-Saga, and integrated with the Giphy API, this project offers a dynamic and engaging user experience.
 
 ## Development Setup Instructions
 
