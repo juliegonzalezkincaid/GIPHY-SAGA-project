@@ -54,4 +54,7 @@ You are given two router modules on the server with stubs for the routes you may
     - User should be able to create a new category
     - User should be able to edit an existing category
     - User should be able to delete/remove an existing category
+## Support 
+If you have suggestions or issues, please email me at jgonzalezkincaid@gmail.com
 
+Thanks for viewing!
